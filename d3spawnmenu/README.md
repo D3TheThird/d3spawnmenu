@@ -1,4 +1,4 @@
-Admin spawn manu
+Admin spawn menu
 
 - A simple admin spawn menu.
 
