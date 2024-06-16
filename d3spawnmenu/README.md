@@ -13,7 +13,7 @@ Prerequisites
 
 Installation
 
-- Download and extract the project files to your FiveM resources directory.
+- Download and extract the folder d3spawnmenu to your FiveM resources directory.
 - Add the resource to your server configuration file (server.cfg) with the line:
 ensure d3spawnmenu
 
